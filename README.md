@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/39553613/145566584-494920e6-bdac-4c23-985d-9d00187c90e1.jpg">
+
+<img src = "https://user-images.githubusercontent.com/39553613/191830497-73fbe880-98b2-4158-8b58-1181d111ab1b.jpg" width = 50% height = 50%>
 </p>
 
 <h4 align="center">我并不认为用这么低效率的语言去学习数据结构是个好方法 </h4>
